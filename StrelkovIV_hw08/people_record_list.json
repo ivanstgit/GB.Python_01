@@ -1,0 +1,42 @@
+[
+{
+"id": 1,
+"valid_from": "2020-07-01",
+"valid_to": "2099-07-01",
+"last_name": "Фамилия",
+"first_name": "Имя",
+"second_name": "Отчество",
+"comment": "Комментарий",
+"deleted": true
+},
+{
+"id": 2,
+"valid_from": "2020-07-01",
+"valid_to": "2099-07-01",
+"last_name": "Фамилия",
+"first_name": "Имя",
+"second_name": "Отчество",
+"comment": "Комментарий",
+"deleted": true
+},
+{
+"id": 3,
+"valid_from": "2022-02-02",
+"valid_to": "2099-12-31",
+"last_name": "Иванов",
+"first_name": "Иван",
+"second_name": "Иванович",
+"comment": "35",
+"deleted": true
+},
+{
+"id": 4,
+"valid_from": "2022-02-02",
+"valid_to": "2099-12-31",
+"last_name": "Иванов",
+"first_name": "Иван",
+"second_name": "Иванович",
+"comment": "36",
+"deleted": false
+}
+]
